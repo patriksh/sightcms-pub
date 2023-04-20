@@ -1,0 +1,275 @@
+{
+    "nav": {
+        "dashboard": "Dashboard",
+        "login": "Login",
+        "create": "Create",
+        "get_started": "Get Started",
+        "home": "Home",
+        "features": "Features",
+        "contact": "Contact",
+        "account": "Account",
+        "register": "Register",
+        "websites": "Websites",
+        "profile": "Profile",
+        "sign_out": "Sign Out",
+        "legal": "Legal",
+        "language": "Language",
+        "privacy_policy": "Privacy Policy",
+        "terms_and_conditions": "Terms & Conditions",
+        "all_rights_reserved": "All rights reserved."
+    },
+    "languages": {
+        "english": "English",
+        "croatian": "Hrvatski"
+    },
+    "landing": {
+        "meta": {
+            "title": "Welcome"
+        },
+        "hero": {
+            "title": "City & county websites created in minutes.",
+            "text": "From news articles to event tickets, sightcms makes it easy to create a website your residents & visitors will love.",
+            "cta_1": "Get Started",
+            "cta_2": "Speak to Sales"
+        },
+        "features": {
+            "title": "Built from the ground up for one specific purpose.",
+            "text": "We made a platform with focus on the needs of local government units and their tourism associations.",
+            "feature_1_title": "Website",
+            "feature_1_text": "Create a website from predefined templates in a few simple steps. Choose from various modules and customize them to your needs..",
+            "feature_2_title": "Mobile applications",
+            "feature_2_text": "Attract more visitors with apps for Android & iOS, which connect to your website and allow users to access your content offline.",
+            "feature_3_title": "Dashboard",
+            "feature_3_text": "Manage your content with sections for static pages, articles, events & more. Add writers and moderators and give them permissions"
+        },
+        "cta": {
+            "title": "Start your free trial today",
+            "text": "Try sightcms for 30 days. No credit card required.",
+            "button": "Get Started"
+        }
+    },
+    "contact": {
+        "meta": {
+            "title": "Contact"
+        },
+        "title": "Contact Us",
+        "subtitle": "Got a technical issue? Have a question about our subscription plans? Want to request a feature? Let us know.",
+        "form": {
+            "email": {
+                "label": "Your email",
+                "placeholder": "Enter your email address..."
+            },
+            "subject": {
+                "label": "Subject",
+                "placeholder": "Let us know how we can help you..."
+            },
+            "message": {
+                "label": "Your message",
+                "placeholder": "Leave a comment..."
+            },
+            "button": "Send message"
+        }
+    },
+    "privacy_policy": {
+        "meta": {
+            "title": "Privacy Policy"
+        },
+        "title": "Privacy Policy",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper a lacus vestibulum sed. Commodo ullamcorper a lacus vestibulum sed arcu non. Tortor condimentum lacinia quis vel eros donec. Nibh tortor id aliquet lectus proin nibh nisl. Lectus proin nibh nisl condimentum id. Sed tempus urna et pharetra. Consectetur adipiscing elit pellentesque habitant morbi. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Ultricies mi eget mauris pharetra et ultrices. At augue eget arcu dictum. Sit amet commodo nulla facilisi nullam. Netus et malesuada fames ac turpis. Nibh venenatis cras sed felis eget velit. Enim nec dui nunc mattis enim. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Ipsum a arcu cursus vitae congue. Quis hendrerit dolor magna eget est lorem ipsum dolor. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Eu ultrices vitae auctor eu augue."
+    },
+    "terms_and_conditions": {
+        "meta": {
+            "title": "Terms & Conditions"
+        },
+        "title": "Terms & Conditions",
+        "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ullamcorper a lacus vestibulum sed. Commodo ullamcorper a lacus vestibulum sed arcu non. Tortor condimentum lacinia quis vel eros donec. Nibh tortor id aliquet lectus proin nibh nisl. Lectus proin nibh nisl condimentum id. Sed tempus urna et pharetra. Consectetur adipiscing elit pellentesque habitant morbi. Pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem. Ultricies mi eget mauris pharetra et ultrices. At augue eget arcu dictum. Sit amet commodo nulla facilisi nullam. Netus et malesuada fames ac turpis. Nibh venenatis cras sed felis eget velit. Enim nec dui nunc mattis enim. Ullamcorper dignissim cras tincidunt lobortis feugiat vivamus at augue. Ipsum a arcu cursus vitae congue. Quis hendrerit dolor magna eget est lorem ipsum dolor. Varius sit amet mattis vulputate enim nulla aliquet porttitor lacus. Eu ultrices vitae auctor eu augue."
+    },
+    "auth": {
+        "form": {
+            "name": {
+                "label": "Name"
+            },
+            "email": {
+                "label": "Email"
+            },
+            "password": {
+                "label": "Password"
+            },
+            "password_confirmation": {
+                "label": "Confirm password"
+            },
+            "current_password": {
+                "label": "Current password"
+            },
+            "new_password": {
+                "label": "New password"
+            }
+        }
+    },
+    "login": {
+        "meta": {
+            "title": "Log in"
+        },
+        "remember_me": "Remember me",
+        "button": "Log in",
+        "forgot_password": "Forgot password?"
+    },
+    "register": {
+        "meta": {
+            "title": "Register"
+        },
+        "button": "Register",
+        "already_registered": "Already registered?"
+    },
+    "forgot_password": {
+        "meta": {
+            "title": "Forgot Password"
+        },
+        "text": "Forgot your password? No problem. Just let us know your email address and we will email you a password reset link that will allow you to choose a new one.",
+        "button": "Email Password Reset Link"
+    },
+    "reset_password": {
+        "meta": {
+            "title": "Reset Password"
+        },
+        "button": "Reset Password"
+    },
+    "verify_email": {
+        "meta": {
+            "title": "Email Verification"
+        },
+        "text": "Thanks for signing up! Before getting started, could you verify your email address by clicking on the link we just emailed to you? If you didn't receive the email, we will gladly send you another.",
+        "text_resent": "A new verification link has been sent to the email address you provided during registration.",
+        "button": "Resend Verification Email",
+        "sign_out": "Sign out"
+    },
+    "confirm_password": {
+        "meta": {
+            "title": "Confirm Password"
+        },
+        "text": "This is a secure area of the application. Please confirm your password before continuing.",
+        "button": "Confirm"
+    },
+    "websites": {
+        "meta": {
+            "title": "Websites"
+        },
+        "title": "Websites",
+        "plan": "plan",
+        "dashboard": "Dashboard",
+        "edit": "Edit"
+    },
+    "website_edit": {
+        "meta": {
+            "title": "Edit Website"
+        },
+        "title": "Edit website {name}",
+        "information_title": "Information",
+        "information_text": "Edit your website information here.",
+        "form": {
+            "name": {
+                "label": "Name"
+            },
+            "domain": {
+                "label": "Domain",
+                "help": "Custom domains are currently not supported."
+            }
+        },
+        "button": "Save",
+        "saved": "Saved."
+    },
+    "profile": {
+        "meta": {
+            "title": "Profile"
+        },
+        "title": "Profile",
+        "profile_information_title": "Profile Information",
+        "profile_information_text": "Update your account's profile information and email address.",
+        "email_not_verified": "Your email address is unverified.",
+        "resend_verification": "Click here to re-send the verification email.",
+        "verification_sent": "A new verification link has been sent to your email address.",
+        "save": "Save",
+        "saved": "Saved.",
+        "cancel": "Cancel",
+        "update_password_title": "Update Password",
+        "update_password_text": "Ensure your account is using a long, random password to stay secure.",
+        "delete_account_title": "Delete Account",
+        "delete_account_text": "Once your account is deleted, all of its resources and data will be permanently deleted. Before deleting your account, please download any data or information that you wish to retain.",
+        "delete_account_confirmation_title": "Are you sure you want to delete your account?",
+        "delete_account_confirmation_text": "Once your account is deleted, all of its resources and data will be permanently deleted. Please enter your password to confirm you would like to permanently delete your account.",
+        "delete_account_button": "Delete Account"
+    },
+    "builder": {
+        "intro": {
+            "meta": {
+                "title": "Website Builder"
+            },
+            "title": "Let's create your {branding} website.",
+            "text": "Answer some questions and we'll get you up and running in no time.",
+            "button": "Get Started"
+        },
+        "step_1": {
+            "meta": {
+                "title": "Step 1/3 - Website Builder"
+            },
+            "title": "Pick a name for your website.",
+            "text": "You can always change it later.",
+            "placeholder": "The City of Zabok",
+            "button": "Next"
+        },
+        "step_2": {
+            "meta": {
+                "title": "Step 2/3 - Website Builder"
+            },
+            "title": "What kind of website are you creating?",
+            "text": "Choose the type that suits {name} the best.",
+            "types": {
+                "government": {
+                    "title": "Government",
+                    "text": "articles, documents, forms & more"
+                },
+                "tourism": {
+                    "title": "Tourism",
+                    "text": "attractions, events, tours & more"
+                },
+                "universal": {
+                    "title": "Universal",
+                    "text": "includes all modules"
+                }
+            },
+            "button": "Next"
+        },
+        "step_3": {
+            "meta": {
+                "title": "Step 3/3 - Website Builder"
+            },
+            "title": "Setup your subscription.",
+            "text": "Choose the right plan to get the most of your {name} {type} website.",
+            "per_month": "/month",
+            "features": "Features",
+            "plans": {
+                "demo": "Demo",
+                "for_testing_only": "For testing only.",
+                "one_week_trial": "One week trial.",
+                "all_features": "All features.",
+                "basic": "Basic",
+                "website": "Personalized website.",
+                "one_user": "Up to one user.",
+                "one_gb_storage": "Up to 1GB storage.",
+                "professional": "Professional",
+                "mobile_app": "Personalized mobile app.",
+                "unlimited_users_storage": "Unlimited users & storage."
+            },
+            "button": "Create my website!",
+            "button_inactive": "Currently unavailable."
+        },
+        "finish": {
+            "meta": {
+                "title": "Finished - Website Builder"
+            },
+            "title": "Continue setting up your website in the Dashboard.",
+            "text": "You're ready for your next step!",
+            "button": "Go to Dashboard"
+        }
+    }
+}

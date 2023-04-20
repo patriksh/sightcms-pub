@@ -1,0 +1,26 @@
+[
+    {
+      "relation":[
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+        "namespace":"android_app",
+        "package_name":"com.sightcms.app",
+        "sha256_cert_fingerprints":[
+          "47:82:9F:78:8A:71:14:2D:2B:72:1C:B2:93:3E:1D:FA:72:24:85:ED:8D:61:3F:00:DC:E1:EF:F3:8D:1C:BC:9E"
+        ]
+      }
+    },
+    {
+      "relation":[
+        "delegate_permission/common.handle_all_urls"
+      ],
+      "target":{
+        "namespace":"android_app",
+        "package_name":"com.sightcms.app",
+        "sha256_cert_fingerprints":[
+          "03:DF:7C:38:8D:43:E9:7C:72:CF:73:74:4F:1E:67:C9:34:7D:8A:22:BB:97:65:97:64:F0:25:09:47:F6:A3:5D"
+        ]
+      }
+    }
+  ]

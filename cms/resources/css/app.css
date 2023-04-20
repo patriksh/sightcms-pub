@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.format-blue {
+    --tw-format-links: var(--color-700);
+    --tw-format-invert-links: var(--color-700);
+}

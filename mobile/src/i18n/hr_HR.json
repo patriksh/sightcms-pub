@@ -1,0 +1,96 @@
+{
+    "menu": {
+        "articles": "Objave",
+        "events": "Događaji",
+        "more": "Ostalo"
+    },
+    "articles_page": {
+        "failed_to_load": "Učitavanje objava nije uspjelo.",
+        "articles": "Objave"
+    },
+    "article_page": {
+        "failed_to_load": "Učitavanje objave nije uspjelo.",
+        "article": "Objava"
+    },
+    "events_page": {
+        "upcoming": "Nadolazeći",
+        "past": "Prošli",
+        "this_week": "Ovaj tjedan",
+        "this_month": "Ovaj mjesec",
+        "failed_to_load": "Učitavanje događaja nije uspjelo.",
+        "events": "Događaji"
+    },
+    "event_page": {
+        "failed_to_load": "Učitavanje događaja nije uspjelo.",
+        "event": "Događaj",
+        "notifications": {
+            "scheduled": "Obavijest je uspješno zakazana.",
+            "removed": "Obavijest je uspješno uklonjena.",  
+            "half_hour_before": "Pola sata prije",
+            "one_hour_before": "Sat prije",
+            "two_hours_before": "Dva sata prije",
+            "one_day_before": "Dan prije",
+            "two_days_before": "Dva dana prije",
+            "one_week_before": "Tjedan prije"
+        }
+    },
+    "more_page": {
+        "more": "Ostalo",
+        "documents": "Dokumenti",
+        "attractions": "Turističke atrakcije",
+        "gastronomy": "Gastronomski objekti",
+        "audio_tours": "Audio vodiči"
+    },
+    "documents_page": {
+        "failed_to_load": "Učitavanje dokumenata nije uspjelo.",
+        "documents": "Dokumenti"
+    },
+    "attractions_page": {
+        "failed_to_load": "Učitavanje turističkih atrakcija nije uspjelo.",
+        "attractions": "Turističke atrakcije"
+    },
+    "attraction_page": {
+        "failed_to_load": "Učitavanje turističke atrakcije nije uspjelo.",
+        "attraction": "Turistička atrakcija"
+    },
+    "gastros_page": {
+        "failed_to_load": "Učitavanje gastronomskih objekata nije uspjelo.",
+        "gastronomy": "Gastronomski objekti"
+    },
+    "gastro_page": {
+        "failed_to_load": "Učitavanje gastronomskog objekta nije uspjelo.",
+        "gastronomy": "Gastronomski objekt"
+    },
+    "audio_tours_page": {
+        "failed_to_load": "Učitavanje audio vodiča nije uspjelo.",
+        "audio_tours": "Audio vodiči"
+    },
+    "audio_tour_page": {
+        "failed_to_load": "Učitavanje audio vodiča nije uspjelo.",
+        "audio_tour": "Audio vodič"
+    },
+    "static_page": {
+        "failed_to_load": "Učitavanje stranice nije uspjelo.",
+        "page": "Stranica"
+    },
+    "offline_page": {
+        "offline": "Nema internetske veze",
+        "you_are_offline": "Niste spojeni na internet!",
+        "please_check_and_try_again": "Provjerite svoju internetsku vezu i pokušajte ponovno.",
+        "retry": "Osvježi"
+    },
+    "unavailable_page": {
+        "unavailable": "Nedostupno",
+        "application_unavailable": "Aplikacija je nedostupna!",
+        "app_is_currently_unavailable": "Aplikacija trenutno nije dostupna.",
+        "please_try_again_later": "Pokušajte ponovno kasnije.",
+        "retry": "Osvježi"
+    },
+    "from": "Od",
+    "to": "Do",
+    "share_with_friends": "Podijeli",
+    "get_directions": "Otvori kartu",
+    "view_website": "Otvori web stranicu",
+    "download": "Preuzmi",
+    "your_browser_does_not_support_the_audio_tag": "Vaš uređaj ne podržava audio datoteke."
+}

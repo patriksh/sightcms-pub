@@ -1,0 +1,96 @@
+{
+    "menu": {
+        "articles": "Articles",
+        "events": "Events",
+        "more": "More"
+    },
+    "articles_page": {
+        "failed_to_load": "Failed to load more articles.",
+        "articles": "Articles"
+    },
+    "article_page": {
+        "failed_to_load": "Failed to load the article.",
+        "article": "Article"
+    },
+    "events_page": {
+        "upcoming": "Upcoming",
+        "past": "Past",
+        "this_week": "This week",
+        "this_month": "This month",
+        "failed_to_load": "Failed to load more events.",
+        "events": "Events"
+    },
+    "event_page": {
+        "failed_to_load": "Failed to load the event.",
+        "event": "Event",
+        "notifications": {
+            "scheduled": "Notification scheduled successfully.",
+            "removed": "Notification removed successfully.",
+            "half_hour_before": "Half an hour before",
+            "one_hour_before": "One hour before",
+            "two_hours_before": "Two hours before",
+            "one_day_before": "One day before",
+            "two_days_before": "Two days before",
+            "one_week_before": "One week before"
+        }
+    },
+    "more_page": {
+        "more": "More",
+        "documents": "Documents",
+        "attractions": "Attractions",
+        "gastronomy": "Gastronomy",
+        "audio_tours": "Audio tours"
+    },
+    "documents_page": {
+        "failed_to_load": "Failed to load more documents.",
+        "documents": "Documents"
+    },
+    "attractions_page": {
+        "failed_to_load": "Failed to load more attractions.",
+        "attractions": "Attractions"
+    },
+    "attraction_page": {
+        "failed_to_load": "Failed to load the attraction.",
+        "attraction": "Attraction"
+    },
+    "gastros_page": {
+        "failed_to_load": "Failed to load more gastronomies.",
+        "gastronomy": "Gastronomy"
+    },
+    "gastro_page": {
+        "failed_to_load": "Failed to load the gastro.",
+        "gastronomy": "Gastronomy"
+    },
+    "audio_tours_page": {
+        "failed_to_load": "Failed to load more audio tours.",
+        "audio_tours": "Audio tours"
+    },
+    "audio_tour_page": {
+        "failed_to_load": "Failed to load the audio tour.",
+        "audio_tour": "Audio tour"
+    },
+    "static_page": {
+        "failed_to_load": "Failed to load the page.",
+        "page": "Page"
+    },
+    "offline_page": {
+        "offline": "Offline",
+        "you_are_offline": "You are offline!",
+        "please_check_and_try_again": "Please check your internet connection and try again.",
+        "retry": "Retry"
+    },
+    "unavailable_page": {
+        "unavailable": "Unavailable",
+        "application_unavailable": "Application unavailable!",
+        "app_is_currently_unavailable": "The application is currently unavailable.",
+        "please_try_again_later": "Please try again later.",
+        "retry": "Retry"
+    },
+    "from": "From",
+    "to": "To",
+    "share_with_friends": "Share with friends",
+    "get_directions": "Get directions",
+    "view_website": "View website",
+    "download": "Download",
+    "your_browser_does_not_support_the_audio_tag": "Your device does not support audio playback."
+}

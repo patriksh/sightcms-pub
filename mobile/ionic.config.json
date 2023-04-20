@@ -1,0 +1,7 @@
+{
+    "name": "sightcms demo",
+    "integrations": {
+        "capacitor": {}
+    },
+    "type": "vue"
+}

@@ -1,0 +1,1 @@
+{{-- Backpack admin panel top left menu items --}}
